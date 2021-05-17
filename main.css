@@ -1,7 +1,7 @@
 .container {
     width: 850px;
     margin: 0 auto;
-    font-family: 'PT Serif', serif;
+    font-family: 'Newsreader', serif;
 }
 
 img {
@@ -46,9 +46,27 @@ h1 {
 
 main {
     width: 40em;
-    margin: 2em auto;
+    margin: 4em auto;
+    font-size: 14pt;
+    text-align: center;
 }
 
 .center {
     text-align: center;
 }
+
+li, p {
+    line-height: 1.5;
+}
+
+.schedule {
+    margin: 0 auto;
+}
+
+.schedule td {
+    padding-right: 1em;
+}
+
+.schedule td:first-child {
+    text-align: right;
+}​
