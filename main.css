@@ -45,10 +45,9 @@ h1 {
 }
 
 main {
-    width: 40em;
+    width: 35em;
     margin: 4em auto;
     font-size: 14pt;
-    text-align: center;
 }
 
 .center {
